@@ -7,6 +7,6 @@ app.use("/users", usersRouter);
 // app.get("/", (req, res) => {
 //     res.send("Bridget")
 // })
-app.listen(8080, () => {
-    console.log("server running on port 8080")
+app.listen(3000, () => {
+    console.log("server running on port 3000")
 })
